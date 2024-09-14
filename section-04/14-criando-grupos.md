@@ -10,8 +10,7 @@
         AmazonEC2FullAccess e AmazonS3FullAccess, e os desenvolvedores
         tenham acesso ao serviço Lambda com as políticas AWSLambdaExecute e 
         AWSLambdaRole, POR EXEMPLO.
-
-    ![alt text](image.png)
+![alt text](image.png)
 
 1. As **Policies(Políticas)** são escritas na linguagem ***JSON***, "por baixo dos panos na AWS".
     - EXEMPLO 1: *AdministratorAccess*
