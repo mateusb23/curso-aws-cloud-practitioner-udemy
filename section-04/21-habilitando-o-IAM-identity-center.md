@@ -4,7 +4,7 @@
  - Um usuário no serviço AWS IAM (Identity and Access Management) é diferente de um usuário no 
    serviço AWS IAM Identity Center.
     - Como dá-se essa diferença peculiar?
-        - Usuário no IAM ---> tem acesso aos sreviços e recursos da plataforma da AWS.
+        - Usuário no IAM ---> tem acesso aos serviços e recursos da plataforma da AWS.
         - Usuário no IAM Identity Center ---> tem acesso a, por exemplo, aplicações criadas pela empresa A ou B hospedada na AWS.
 
 OBS: Login e senha do usuário criado nessa aula no IAM Identity Center:
