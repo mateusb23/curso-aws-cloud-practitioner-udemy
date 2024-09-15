@@ -1,5 +1,7 @@
 # IAM Identity Center
 
+### Eu mesmo diria que é uma espécie de AD (Azure Active Directory (Azure AD)) DA AWS Cloud.
+
   -- **OBS:** Para ativar esse serviço, precisamos ter previamente habilitado o serviço ***AWS Organizations***, o qual 
          será abordado na [aula 19](./19-AWS-organizations.md).
 
