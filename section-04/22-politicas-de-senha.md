@@ -1,10 +1,10 @@
 # POLÍTICAS DE SENHA
 
 ## Dentro do Painel Inicial do Console da AWS:
-    1 - Pesquisar e clicar no serviço IAM (Identity Access Management)
-    2 - clicar na opção Configuração de Conta
-    3 - ir na opção Editar Ploíticas de Senha
-            INDICAÇÕES DE CONFIGURAÇÃO:
+1. **Pesquisar e clicar no serviço IAM (Identity Access Management)**
+2. **clicar na opção Configuração de Conta**
+3. **ir na opção Editar Ploíticas de Senha**
+    - INDICAÇÕES DE CONFIGURAÇÃO:
         - Selecionar a Opção Personalizada 
         - tamanho: 8 caracteres
         - (x) Exigir pelo menos um letra maiúscula do alfabeto latino (A-Z)
