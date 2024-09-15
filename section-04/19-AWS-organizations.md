@@ -1,6 +1,6 @@
 # AWS ORGANIZATIONS
 
- - OBS: O ativação do AWS Organizations é um pré-requisito para o funcionamento pleno do IAM Identity.
+ - **OBS: A ativação do AWS Organizations é um pré-requisito para o funcionamento pleno do [IAM Identity Center](./16-IAM-identity-center.md).**
 
  - Imagine que você tem uma empresa com várias equipes, cada uma com suas próprias necessidades de recursos 
    de computação na nuvem. O AWS Organizations é como um "super controle remoto" que você usa para gerenciar 

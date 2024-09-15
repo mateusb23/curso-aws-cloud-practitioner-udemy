@@ -1,7 +1,7 @@
 # IAM Identity Center
 
   -- **OBS:** Para ativar esse serviço, precisamos ter previamente habilitado o serviço ***AWS Organizations***, o qual 
-         será abordado na aula 19 [[.19-AWS-organizations.md]].
+         será abordado na [aula 19](./19-AWS-organizations.md).
 
  - Assim como o **IAM** padrão, tem como ***função principal o gerenciamento de acesso** da força de trbalho à contas AWS e aplicações em núvem.
  - Tem algumas funcionalidades a mais, ***quando comparado ao IAM padrão que já conhecemos.***
