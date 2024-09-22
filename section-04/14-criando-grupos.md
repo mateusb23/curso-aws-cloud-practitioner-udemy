@@ -1,6 +1,6 @@
 # CRIANDO GRUPOS
 
-    --> Cada grupo de usuários tem sua/suas políticas, roporcionando uma maior organização 
+    --> Cada grupo de usuários tem sua/suas políticas, proporcionando uma maior organização 
         ao trabalho do administrador da cloud e facilitando a divisão de
         atribuições e permissões de cada usuário na cloud.
 
